@@ -31,7 +31,7 @@
 
 ## License Information 📜
 
-All graphics used in the application are licensed under Creative Commons. If you plan to use or modify these assets, please ensure compliance with the associated licensing terms.
+All graphics used in the application are licensed under Creative Commons.
 
 ---
 
@@ -45,7 +45,7 @@ All graphics used in the application are licensed under Creative Commons. If you
 
 ## Requirements 📋
 
-- **Platform**: iOS 14.0+
+- **Platform**: iOS 14.0+ (current target 18.2.1)
 - **Language**: Swift
 - **Framework**: SwiftUI
 
